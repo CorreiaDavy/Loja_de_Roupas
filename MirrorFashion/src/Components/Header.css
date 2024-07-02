@@ -1,0 +1,152 @@
+
+/* Tamanho de telas para smartfhones com telas menores que 600px*/
+@media only screen and (max-width:600px) {
+    #title{
+        width: 50px;
+        left: -50px;
+    }
+
+    #nav_bar{
+        display: none;
+
+    }
+
+    #icons_menu{
+        display: flex;
+        right: 20px;
+    }
+
+    #menu_bar{
+        display: flex;
+        margin-left: 20px;
+        
+    }
+}
+
+
+header{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 150px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    box-shadow: 0.2px 3px  5px rgba(0, 0, 0, 0.721);
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+
+    
+}
+
+
+
+
+#header_menu,
+nav  ul{
+    display: flex;
+}
+
+#title{
+    display: flex;
+    position: relative;
+    right: 120px;
+    font-size: 30px;
+}
+
+#nav_bar{
+    position: relative;
+    left: 120px;
+}
+
+
+#nav_bar li{
+    margin-left: 30px;
+    list-style-type: none;
+
+}
+
+#nav_bar li:hover, a:hover{
+    text-decoration: overline black 2px;
+}
+
+
+
+
+
+
+
+
+li .dropdown{
+    display: flex;
+    
+   
+}
+
+.dropbtn_content a:hover {
+    background-color: rgba(0, 0, 0, 0.247);
+    border: 1px solid black;
+}
+
+
+.dropbtn_content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    
+    
+   
+}
+
+
+
+.dropbtn_content a{
+    color: black;
+    display: flex;
+    margin: 10px;
+    
+}
+
+.dropdown:hover .dropbtn_content{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+#nav_bar a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+
+
+/* Diminuir o tamanho os icones e dá um espaço*/
+#icons_menu img{
+    width: 30px;
+    cursor: pointer;
+    
+}
+
+#icons_menu img:hover{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+
+
+
+

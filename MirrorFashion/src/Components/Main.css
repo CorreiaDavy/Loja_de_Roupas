@@ -1,0 +1,102 @@
+#main{
+    padding-top: 180px;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+/* Ajustar o espaço de pesquisa*/
+
+#search form{
+display: flex;
+
+}
+
+#search input{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+#search img{
+    width: 40px;
+    cursor: pointer;
+    gap: 20px;
+    
+    
+}
+
+#search img:hover{
+    border: 1px solid rgba(255, 255, 255, 0.255);
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.159);
+    
+}
+
+/* Criar uma área de apresentação com fotos e ela passar uma por uma, para deixar mais bonito*/
+
+#present_web{
+    margin-top: 20px;
+    display: flex;
+    padding: 10px;
+    background-color: rgba(255, 235, 205, 0.712);
+    box-shadow: 2px 3px 4px rgba(137, 43, 226, 0.544);
+    
+   
+}
+
+#present_main{
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+
+#present_main img{
+    margin-left: 10px;
+    width: 500px;
+    height: 460px;
+    
+    
+}
+
+#text_apr{
+    margin-left: 300px;
+}
+
+#text_apr h3{
+    font-size: 33px;
+    margin-bottom: 15px;
+}
+
+#text_apr p{
+    font-size: 18px;
+}
+
+#text_apr strong{
+    font-size: 25px;
+}
+
+#text_apr h2{
+    margin-top: 15px;
+}
+
+#text_apr button{
+    margin-top: 8px;
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    font-size: 18px;
+}
+
+#text_apr button:hover{
+    background-color: white;
+    color: blueviolet;
+    border: 2px solid blueviolet;
+}
