@@ -354,6 +354,319 @@ function Products(){
                     </section>
 
                 </section>
+
+
+                {/* Mais vendido, aqui será uma nova seção*/}
+
+                <section className="partsection">
+                    <h2>Mais Vistos</h2>
+                    <div className='linha'></div>
+
+                    <section className="prodcts_cad">
+
+                        
+
+                        <div className="products">
+                            <img className='img_prod' src={prod1}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+                        <div className="products">
+                            <img className='img_prod' src={prod2}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+                        <div className="products">
+                            <img className='img_prod' src={prod3}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+ 
+                        <div className="products">
+                            <img className='img_prod' src={prod4}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod5}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod6}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod7}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod8}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod9}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod10}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+                          
+                        <div className="products">
+                            <img className='img_prod' src={prod11}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod12}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod13}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod14}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod15}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+ 
+                        <div className="products">
+                            <img className='img_prod' src={prod16}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod17}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+                        
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod18}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod19}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+                        
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod20}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod21}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod22}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod23}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod24}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod25}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod26}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod27}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod28}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod29}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod30}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod31}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod32}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod33}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod34}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod35}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+
+                        <div className="products">
+                            <img className='img_prod' src={prod36}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+                        <div className="products">
+                            <img className='img_prod' src={prod37}  />
+                            <p className='name_prod'>Especificação</p>
+                            <strong className='price_prod'>R$ 120.00</strong>
+                            <button className='button_car' type='button'>Adicionar ao Carrinho</button>
+                        </div>
+
+                        
+
+
+
+                    </section>
+
+                </section>
         
 
             </section>

@@ -6,6 +6,12 @@
     
 }
 
+.partsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 .linha{
     width: 120px;
