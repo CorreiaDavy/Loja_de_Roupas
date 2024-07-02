@@ -1,0 +1,51 @@
+#Footer{
+    margin-top: 80px;
+height: 200px;
+background-color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+box-shadow: 2px 3px 15px 5px blueviolet;
+}
+
+#title_footer{
+    color: black;
+    animation: rotate 2s linear infinite; /* Aplica a animação */
+}
+
+
+
+#title_footer span{
+    color: blueviolet;
+}
+
+
+
+.footer_information{
+    text-align: center;
+
+    
+    
+}
+
+.footer_information strong{
+    font-size: 25px;
+}
+
+.footer_information p{
+    font-size: 18px;
+    color: black;
+}
+
+
+
+.logo_soc img{
+    width: 70px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.logo_soc img:hover{
+    transform: translateY(-5px);
+    transition: all 0,02s;
+}
